@@ -1,4 +1,4 @@
-<h1 align="center">Jetpack Joyride in OpenGL</h1>
+<h1 align="center">Jet Fighter Game in OpenGL</h1>
 
 #### Author - Himanshu Maheshwari
 
